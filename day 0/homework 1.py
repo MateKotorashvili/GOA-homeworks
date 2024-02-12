@@ -98,6 +98,22 @@ forward(165)
 right(55)
 forward(110)
 
+penup()
+goto(150,45)
+pendown()
+
+left(60)
+forward(40)
+
+left(65)
+forward(25)
+
+left(115)
+forward(40)
+
+left(65)
+forward(25)
+
 exitonclick()
 
 #and here is my perfect brown house.
