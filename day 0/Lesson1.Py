@@ -1,1 +1,1 @@
-("day 0 homework")
+print("im am mate")

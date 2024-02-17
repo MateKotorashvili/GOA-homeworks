@@ -8,6 +8,8 @@ width(5)
 
 color("brown")
 
+speed(5)
+
 penup()
 goto(-100,-100)
 pendown()
