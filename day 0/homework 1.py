@@ -26,7 +26,7 @@ left(90)
 forward(150)
 left(90)
 
-#step 2: im making different house so just do what i will do if u want house like me 
+#step 2: im making different house so just do what i will do if u want house like mine 
 
 penup()
 goto(50,-100)
@@ -118,4 +118,4 @@ forward(25)
 
 exitonclick()
 
-#and here is my perfect brown house.
+#and here is my perfect house.

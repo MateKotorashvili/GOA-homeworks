@@ -1,1 +1,1 @@
-print("im am mate")
+print("i am mate")
