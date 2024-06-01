@@ -1,0 +1,126 @@
+body{
+    background-color: whitesmoke;
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+    text-align: center;
+}
+
+header{
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 0 3rgb #111;
+}
+
+header li{
+    display: inline;
+    padding-left: 45px;
+    font-size: x-large;
+}
+
+header li a{
+    color: #333;
+    text-decoration: none;
+    padding: 13px;
+    transition: .3s ease;
+}
+
+header li a:hover{
+    color: royalblue;
+}
+
+header ul #contact *{
+    color: #fff;
+    background-color: royalblue;
+    border-radius: 30px;
+    float: right;
+    position: relative;
+    top: -15px;
+    transition: .3s ease;
+}
+
+header ul #contact *:hover{
+    background-color: goldenrod;
+}
+
+header li img{
+    width: 90px;
+    float: left;
+    margin-top: -35px;
+    border-radius: 50px;
+}
+
+.teen{
+    color: royalblue;
+}
+
+.h1{
+    color: black;
+    width: 700px;
+    font-size: xxx-large;
+    font-weight: 900;
+    font-family: fantasy;
+}
+
+.mate{
+    color: black;
+    width: 700px;
+    font-size: xx-large;
+    font-family: fantasy;
+}
+
+.kotora{
+    color: black;
+    width: 700px;
+    font-size: xx-large;
+    font-family: fantasy;
+}
+
+.goaimg{
+    width: 100px;
+    border-radius: 50px;
+}
+
+footer{
+    background-color: #fff;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    padding: 30px;
+}
+
+footer li{
+    display: inline;
+    padding-left: 45px;
+    font-size: x-large;
+    float: left;
+}
+
+footer li a{
+    color: #333;
+    text-decoration: none;
+    padding: 13px;
+    transition: .3s ease;
+}
+
+footer li a:hover{
+    color: royalblue;
+}
+
+/* footer ul #contact *{
+    color: #fff;
+    background-color: royalblue;
+    border-radius: 30px;
+    float: right;
+    position: relative;
+    top: -15px;
+    transition: .3s ease; */
+/* } */
+
+.copyright{
+    float: right;
+    position: relative;
+    margin-right: 50px;
+}
