@@ -8,14 +8,14 @@ body{
 
 header{
     background-color: #fff;
-    padding: 20px;
+    padding: 15px;
     box-shadow: 0 0 3rgb #111;
 }
 
 header li{
     display: inline;
     padding-left: 45px;
-    font-size: x-large;
+    font-size: large;
 }
 
 header li a{
@@ -43,12 +43,12 @@ header ul #contact *:hover{
     background-color: goldenrod;
 }
 
-header li img{
-    width: 90px;
+/* header li img{
+    width: 70px;
     float: left;
-    margin-top: -35px;
+    margin-top: -25px;
     border-radius: 50px;
-}
+} */
 
 .teen{
     color: royalblue;
@@ -88,7 +88,7 @@ footer{
     bottom: 0;
     width: 100%;
     text-align: center;
-    padding: 30px;
+    padding: 20px;
 }
 
 footer li{
@@ -123,4 +123,11 @@ footer li a:hover{
     float: right;
     position: relative;
     margin-right: 50px;
+}
+
+ul li img{
+    width: 70px;
+    float: left;
+    margin-top: -25px;
+    border-radius: 50px;
 }
